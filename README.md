@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lldb3
-- 👀 I’m interested in cyber security and the web
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 Reach me by [email](mailto:edgar@shaper.dev) or on [Twitter](https://twitter.com/elm44378349)
+- 🐞 Hi, I’m @lldb3
+- 🔥 interested in information security, 
+- ⛩️ currently learning how to break windows
+- 🔭 looking to collaborate on osint tools, password managers, tools for the dev !
+- 🏓 Reach me by [email](mailto:edgar@shaper.dev) or on [Twitter](https://twitter.com/elm44378349)
 
 
 
